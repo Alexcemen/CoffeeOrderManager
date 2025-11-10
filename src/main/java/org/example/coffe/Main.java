@@ -1,4 +1,4 @@
-package org.example;
+package org.example.coffe;
 
 import org.example.coffe.manager.CoffeeOrderManager;
 import org.example.coffe.models.Order;
